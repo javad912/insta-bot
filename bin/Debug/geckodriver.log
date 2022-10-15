@@ -1,0 +1,60 @@
+1644939017105	geckodriver	INFO	Listening on 127.0.0.1:53091
+1644939020179	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53092" "-no-remote" "-profile" "C:\\Users\\Mohammad\\AppData\\Local\\Temp\\rust_mozprofilex0jPjY"
+1644939021551	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mohammad\\AppData\\Local\\Temp\\rust_mozprofilex0jPjY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53092/devtools/browser/6dff088a-eca2-4202-bf68-44d7b7684fa1
+1644939026310	Marionette	INFO	Listening on port 53099
+1644939026614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1644939946243	Marionette	INFO	Stopped listening on port 53099
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+o-remote" "-profile" "C:\\Users\\Mohammad\\AppData\\Local\\Temp\\rust_mozprofileR7OgVA"
+1644939930262	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mohammad\\AppData\\Local\\Temp\\rust_mozprofileR7OgVA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53250/devtools/browser/7c9cd0ff-31fe-4876-88c6-b90747e61142
+1644939936743	Marionette	INFO	Listening on port 53255
+1644939936990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+1644940141248	Marionette	INFO	Stopped listening on port 53255
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1644940190101	geckodriver	INFO	Listening on 127.0.0.1:53329
+1644940193171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53330" "-no-remote" "-profile" "C:\\Users\\Mohammad\\AppData\\Local\\Temp\\rust_mozprofileyDho4A"
+1644940194041	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mohammad\\AppData\\Local\\Temp\\rust_mozprofileyDho4A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53330/devtools/browser/f4f3751f-41f3-4f20-800f-41f891a7b09f
+1644940197784	Marionette	INFO	Listening on port 53335
+1644940198019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+1644943428592	geckodriver	INFO	Listening on 127.0.0.1:59093
+1644943431638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59094" "-no-remote" "-profile" "C:\\Users\\Mohammad\\AppData\\Local\\Temp\\rust_mozprofile7bworV"
+1644943432348	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mohammad\\AppData\\Local\\Temp\\rust_mozprofile7bworV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59094/devtools/browser/0c34bdcb-a174-4b12-95f2-04190d4b4b95
+1644943436949	Marionette	INFO	Listening on port 59099
+1644943437019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/driver.js :: GeckoDriver.prototype.setWindowRect :: line 1087"  data: no]
+GeckoDriver.prototype.setWindowRect@chrome://remote/content/marionette/driver.js:1087:9
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1644943438738	Marionette	INFO	Stopped listening on port 59099
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+1644943463025	geckodriver	INFO	Listening on 127.0.0.1:59130
+1644943466077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59131" "-no-remote" "-profile" "C:\\Users\\Mohammad\\AppData\\Local\\Temp\\rust_mozprofilemEaBNb"
